@@ -87,6 +87,7 @@ A style guide on the standard format, spelling, and construction of commonly use
             <td>
                 <img src="https://raw.githubusercontent.com/trungk18/front-end-editorial-style-guide/master/assets/images/all-caps.png" />
             </td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -353,7 +354,7 @@ The spellings are based on:
         </tr>
         <tr>
             <th align="left">
-                <p>photosign / photosignature*</p>
+                <p>photosign / photosignature</p>
             </th>
             <td>photoSign, photo-sign, photo sign</td>
             <td></td>
@@ -555,6 +556,7 @@ For consistency and due to space constraints in the mobile app, let's NOT put a 
 | Use This                                                                                    | Not This                         | Comment                                                                                   |
 | ------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------- |
 | Use serial comma (e.g., distance, traffic, and capacity). Notice the comma after "traffic". | Enterprise, network and operator | A must in contracts and legal documents. [Here's one of the many reasons][5] |
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Common Grammar Dilemmas
