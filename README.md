@@ -1,6 +1,6 @@
 # Front End Editorial Style Guide
 
-A style guide on the standard format, spelling, and construction of commonly used words and phrases for clarity and consistency of the User Interface.
+A user interface style guide on the standard format, spelling, and construction of commonly used words and phrases for clarity and consistency.
 
 > This is our practical guide at [Zyllem][0]. Therefore, many of these standards are related to the logistic sector.
 
@@ -588,7 +588,7 @@ For consistency and due to space constraints in the mobile app, let's NOT put a 
 
 ## Contributing
 
-I know this collection of standards is not perfect and still need to improve a lot.  If you have any ideas, just [open an issue][issues] and tell me what you think.
+I know this collection of standards is not perfect and still needs to improve. If you have any ideas, just [open an issue][issues] and tell me what you think.
 
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
