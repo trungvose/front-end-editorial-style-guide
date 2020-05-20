@@ -1,6 +1,8 @@
 # Front End Editorial Style Guide
 
-A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface to our sales, marketing, and commercial docs.
+A style guide on the **standard format, spelling, and construction** of **commonly used words and phrases**.
+
+For **clarity** and **consistency** of our internal and external communications – from our user interface to our sales, marketing, and commercial docs.
 
 > This is our practical guide at [Zyllem][0]. Therefore, many of these standards are related to the logistic sector.
 
