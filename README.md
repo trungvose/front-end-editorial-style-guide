@@ -159,6 +159,8 @@ For **clarity** and **consistency** of our internal and external communications 
             <td>
                 <ul>
                     <li>Please enter a value between 0 and 100.</li>
+                    <li>Please enter a value less than or equal to 100</li>
+                    <li>Please enter a value greater than or equal to 100</li>
                     <li>Please enter a positive whole number.</li>
                     <li>Please enter a unique number.</li>
                 </ul>
