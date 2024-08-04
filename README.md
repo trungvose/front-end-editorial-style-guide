@@ -47,7 +47,7 @@ For **clarity** and **consistency** of our internal and external communications 
                 </ul>
             </td>
             <td>
-                <img src="https://raw.githubusercontent.com/trungk18/front-end-editorial-style-guide/master/assets/images/title-case.png" />
+                <img src="https://raw.githubusercontent.com/trungvose/front-end-editorial-style-guide/master/assets/images/title-case.png" />
             </td>
             <td>
                 <ol>
@@ -70,7 +70,7 @@ For **clarity** and **consistency** of our internal and external communications 
                 </ul>
             </td>
             <td>
-              <img src="https://raw.githubusercontent.com/trungk18/front-end-editorial-style-guide/master/assets/images/sentence-case.png" />
+              <img src="https://raw.githubusercontent.com/trungvose/front-end-editorial-style-guide/master/assets/images/sentence-case.png" />
             </td>
             <td>
                 <ol>
@@ -87,7 +87,7 @@ For **clarity** and **consistency** of our internal and external communications 
                 </ul>
             </td>
             <td>
-                <img src="https://raw.githubusercontent.com/trungk18/front-end-editorial-style-guide/master/assets/images/all-caps.png" />
+                <img src="https://raw.githubusercontent.com/trungvose/front-end-editorial-style-guide/master/assets/images/all-caps.png" />
             </td>
             <td></td>
         </tr>
